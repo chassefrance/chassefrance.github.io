@@ -13,8 +13,13 @@ A l'heure actuelle :
 - `5` nichoirs
 - `1` abri hérisson
 
+Nichoirs | type mésanges| type rouge-gorge | type rapace
+ --- | --- | --- 
+5 | 3 | 2 
+ 
 
 ## Nichoirs
+Différents types de nichoirs sont construits l'essentiel étant pour les passereau (mésange, rouge gorge, etc...)
 
 ### Mais certains nichoirs sont moches... 
 L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité ! L'important est que nos amis aient un abri solide et efficace contre les intempéries (canicules, pluies, vents...)
