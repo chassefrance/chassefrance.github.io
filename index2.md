@@ -6,13 +6,19 @@ layout: default
 Abripiaf récupère des palettes pour les transformer en abris pour les petits mammifères et pour les oiseaux.
 [image_non_trouvee](/explication.png){:height="36px" width="36px"}.
    
-### Mais ils sont moches vos nichoirs... 
-L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité l'important est que nos amis aient un abri solide et efficacec ontre les intempéries (canicules, pluies, vents...)
-    
+### Mais certains nichoirs sont moches... 
+L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité ! L'important est que nos amis aient un abri solide et efficace contre les intempéries (canicules, pluies, vents...)
+
+### Peut-on acheter un de vos nichoirs ?
+Non. Ils sont offerts.
+
 ### Comment peut-on aider Abripiaf ?
 De pleins de manière :
 - un petit mot gentil :)
 - du matériel 
    - huile de lin
    - clous de grande taille (40mm)
+   - des palettes : 
+      - lame épaisse et larges :  largeur 13 cm minimum, épaisseur 4mm minimum
+      - non peintes
 - des volontaires pour aller poser un nichoir
