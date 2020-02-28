@@ -15,13 +15,14 @@ A l'heure actuelle :
 
 
 ## Nichoirs
-## Mais certains nichoirs sont moches... 
+
+### Mais certains nichoirs sont moches... 
 L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité ! L'important est que nos amis aient un abri solide et efficace contre les intempéries (canicules, pluies, vents...)
 
 ### Et les jolis peut-on les acheter ?
 Non. Ils sont offerts.
 
-### Comment peut-on aider Abripiaf ?
+## Comment peut-on aider Abripiaf ?
 De pleins de manière :
 - un petit mot gentil :)
 - du matériel 
@@ -30,6 +31,6 @@ De pleins de manière :
    - des palettes : 
       - lame épaisses et larges :  largeur 13 cm minimum, épaisseur 4mm minimum
       - non peintes
-- des volontaires pour aller poser un nichoir
+- des volontaires pour aller poser un abri
 
 
