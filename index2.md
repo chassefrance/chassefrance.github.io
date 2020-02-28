@@ -5,7 +5,8 @@ layout: default
 ### Qu'est ce qu'abripiaf ?
 Abripiaf récupère des palettes pour les transformer en abris pour les petits mammifères et pour les oiseaux.
 [image_non_trouvee]({{ site_url }}/explication.png){:height="36px" width="36px"}.
-
+({{ site_url }}/explication.png)
+({{ site_url }}explication.png)
    
 ### Mais certains nichoirs sont moches... 
 L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité ! L'important est que nos amis aient un abri solide et efficace contre les intempéries (canicules, pluies, vents...)
