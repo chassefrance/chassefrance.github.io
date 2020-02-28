@@ -17,22 +17,22 @@ A l'heure actuelle :
 ## Nichoirs
 Différents types de nichoirs sont construits l'essentiel étant pour les passereaux (mésange, rouge gorge, etc...)
 
-*Je viens de voir un de vos nichoirs , je fais quoi ?*
+**Je viens de voir un de vos nichoirs , je fais quoi ?**
 
 Vous nous écrire pour préciser l'état du nichoir.
 
-*Mais certains nichoirs sont moches...*
+**Mais certains nichoirs sont moches...**
 
 L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité et l'efficacité ! L'important est que nos amis aient un abri solide et efficace contre les intempéries (canicules, pluies, vents...)
 
-*Puis-je en avoir un ?* 
+**Puis-je en avoir un ?** 
 
 Oui. Ils sont offerts.
 
 ## Comment peut-on aider Abripiaf ?
 De pleins de manières  !
 - un petit mot gentil :)
-- du matériel 
+- du matériel ! si vous avez ça dans un coin, Abripiaf est preneur ! 
    - huile de lin
    - clous de grande taille (40mm)
    - des palettes : 
