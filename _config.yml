@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Abripiaf
 description: Fabrication d abris pour animaux avec des palettes recuperees
 logo: /logo.png
+baseurl: abripiaf
