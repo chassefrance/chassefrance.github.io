@@ -12,6 +12,6 @@ L'esthétisme est une notion purement humaine... Abripiaf opte pour la rapidité
 De pleins de manière :
 - un petit mot gentil :)
 - du matériel 
-- huile de lin
-- clous de grande taille (40mm)
+* huile de lin
+* clous de grande taille (40mm)
 - des volontaires pour aller poser un nichoir
