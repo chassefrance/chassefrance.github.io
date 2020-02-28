@@ -4,7 +4,7 @@ layout: default
 
 ### Qu'est ce qu'abripiaf ?
 Abripiaf récupère des palettes pour les transformer en abris pour les petits mammifères et pour les oiseaux.
-[image_non_trouvee]({{ site_url }}/explication.png){:height="36px" width="36px"}.
+[image_non_trouvee]({{ site.baseurl }}/explication.png){:height="36px" width="36px"}.
 ({{ site_url }}/explication.png)
 ({{ site_url }}explication.png)
    
