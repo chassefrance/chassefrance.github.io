@@ -40,4 +40,4 @@ De pleins de manières  !
       - non peintes
 - des volontaires pour aller poser un abri
 
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16ZzTIbeaDzYAwQOfHZScbR1i2I4" width="640" height="480"></iframe>
