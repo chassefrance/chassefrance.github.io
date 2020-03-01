@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> Besoins actuels :
+> Mars 2020 : si vous avez ça dans un coin Abripiaf est preneur !
 > - huile de lin 
 > - colle à bois
 
