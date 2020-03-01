@@ -7,6 +7,8 @@ Abripiaf récupère des palettes pour les transformer en abris pour les petits m
 
 ![](explication.png)
 
+Abripiaf n'a pas de but lucratif et ne vend ni ses nichoirs, ni les chutes de palettes.
+
 
 ## Quelles sont les réalisations ?
 voir la page [realisation](./realisation.html).
