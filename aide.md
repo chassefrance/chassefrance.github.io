@@ -11,9 +11,8 @@ De pleins de manières  !
 
 - un petit mot gentil :)
 
-- du matériel ! si vous avez ça dans un coin, Abripiaf est preneur ! 
+- du matériel :
 
-Les besoins actuels sont : 
    - huile de lin
    - clous de grande taille (40mm)
    - des palettes : 
