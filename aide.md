@@ -2,9 +2,6 @@
 layout: default
 ---
 
-> Mars 2020 : si vous avez ça dans un coin Abripiaf est preneur !
-> - huile de lin 
-> - colle à bois
 
 # Comment aider Abripiaf ?
 De pleins de manières  !
