@@ -24,7 +24,4 @@ De pleins de manières  !
  
 Un grand merci !
 
-![email](./img/email.png)
-
-
-Pour contacter Abripiaf : 
+Pour contacter Abripiaf : ![email](./img/email.png)
