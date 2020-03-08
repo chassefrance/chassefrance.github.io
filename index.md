@@ -16,5 +16,5 @@ voir la page [realisation](./realisation.html).
 ## Comment aider Abripiaf ?
 voir la page [aide](./aide.html).
 
-## Contact ?
+## Contact
 ![email](./img/email.png)
