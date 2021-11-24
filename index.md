@@ -13,7 +13,6 @@ Dans ce nouveau contexte,  les élus, chargés de représenter l'avis majoritair
 
 ### Infographie
 Infographie avec chiffres. Chaque donnée est issue d’une source officielle, les sources sont citées.
-*L'auteur de cette infographie est lui-même détenteur du permis de chasse.*
 
 [![1](./img/1.png)](./img/1.png)!
 [![2](./img/2.png)](./img/2.png)
