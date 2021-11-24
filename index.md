@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Désaccord citoyen
+### Désaccord citoyen
 La pratique de la chasse est un débat citoyen qui revient cycliquement sur le devant de la scène médiatique et politique. Les dernières actualités ont tragiquement ravivé ce dernier.
 
  ## Volontée publique 
