@@ -13,13 +13,7 @@ Dans ce nouveau contexte,  les élus, chargés de représenter l'avis majoritair
 
 ### Infographie
 Infographie avec chiffres. Chaque donnée est issue d’une source officielle, les sources sont citées.
+[![Infographie](./img/1.png)](./infographie.html)!
 
-[![1](./img/1.png)](./img/1.png)!
-[![2](./img/2.png)](./img/2.png)
-[![3](./img/3.png)](./img/3.png)
-[![4](./img/4.png)](./img/4.png)
-[![5](./img/5.png)](./img/5.png)
-[![6](./img/6.png)](./img/6.png)
-[![7](./img/7.png)](./img/7.png)
 
 
