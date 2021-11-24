@@ -2,19 +2,17 @@
 layout: default
 ---
 
-## Qu'est ce qu'abripiaf ?
-Abripiaf récupère des palettes pour les transformer en abris pour les petits mammifères et pour les oiseaux.
+## Désaccord citoyen
+La pratique de la chasse est un débat citoyen qui revient cycliquement sur le devant de la scène médiatique et politique. Les dernières actualités ont tragiquement ravivé ce dernier.
 
-![](explication.png)
+ ## Volontée publique 
+Les différentes analyses de l’opinion citoyenne montrent depuis une dizaine d’années, que la majorité des Français souhaitent un ajustement de cette pratique afin de s’accorder avec leurs exodes vers les campagnes, les lois européennes et leurs volontés écologiques.
+ 
+## Elus
+Dans ce nouveau contexte,  les élus, chargés de représenter l'avis majoritaire, ne peuvent plus jongler entre une minorité et une majorité , des décisions opportunistes et stratégiques doivent être prises.
 
-Abripiaf n'a pas de but lucratif et ne vend ni ses nichoirs, ni les chutes de palettes.
+​
 
 
-## Quelles sont les réalisations ?
-voir la page [realisation](./realisation.html).
 
-## Comment aider Abripiaf ?
-voir la page [aide](./aide.html).
 
-## Contact
-![email](./img/email.png)
